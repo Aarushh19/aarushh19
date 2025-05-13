@@ -15,6 +15,7 @@
 ---
 
 ##🧪 Cybersecurity Projects
+
 🔐 Fake Currency Detector (OpenCV + Python)
 Built a lightweight currency note verification tool using ORB feature detection and keypoint matching to differentiate between real and fake ₹500 notes.
 
