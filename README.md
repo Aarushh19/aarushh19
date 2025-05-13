@@ -14,13 +14,21 @@
 
 ---
 
-## 🧪 Cybersecurity Projects
+##🧪 Cybersecurity Projects
+🔐 Fake Currency Detector (OpenCV + Python)
+Built a lightweight currency note verification tool using ORB feature detection and keypoint matching to differentiate between real and fake ₹500 notes.
 
-- 📧 [Email Spam via Telnet (SMTP Spoofing)](https://github.com/Aarushh19/email-spam-smtp)  
-  Simulated a spoofed email by interacting directly with an SMTP server using Telnet on port 25.
+✉️ Email Spam via Telnet (SMTP Spoofing)
+Simulated a spoofed email by manually interacting with an SMTP server via Telnet on port 25 to demonstrate authentication vulnerabilities.
 
-- 🔐 *More coming soon...*  
-  Wireshark log analysis, Splunk dashboards, OSINT scanning, and full-stack attack simulations.
+📊 Splunk Log Analysis (Lab 4)
+Created real-time dashboards using Splunk to visualize geolocation of IP traffic and HTTP status codes based on access log analysis.
+
+🌐 OSINT & DNS Reconnaissance
+Used tools like Whois, Nslookup, Google Dorks, and the Wayback Machine to extract DNS and domain intelligence in an ethical OSINT lab.
+
+💣 System Compromise Simulation
+Performed a simulated system breach by exploiting SMB vulnerability using Kali Linux & Armitage, successfully compromising two VMs.
 
 ---
 
